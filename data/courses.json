@@ -1,0 +1,52 @@
+[
+    {
+        "id" : "01",
+        "name": "javascript",
+        "image" : "https://contentstatic.techgig.com/photo/78207195/guide-handy-list-of-best-engineering-tools-for-javascript-developers.jpg?59551"
+    },
+    {
+        "id" : "02",
+        "name": "Html",
+        "image" : "https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw"
+    },
+    {
+        "id" : "03",
+        "name": "CSS",
+        "image" : "https://www.codevelop.art/images/posts/wN9g57hSF.jpg"
+    },
+    {
+        "id" : "04",
+        "name": "React",
+        "image" : "https://www.datocms-assets.com/45470/1631110818-logo-react-js.png"
+    },
+    {
+        "id" : "05",
+        "name": "Node js",
+        "image" : "https://www.educative.io/cdn-cgi/image/f=auto,fit=contain,w=600/api/page/5012433147002880/image/download/5193198472265728"
+    },
+    {
+        "id" : "06",
+        "name": "MongoDB",
+        "image" : "https://g.foolcdn.com/art/companylogos/square/mdb.png"
+    },
+    {
+        "id" : "07",
+        "name": "Express js",
+        "image" : "https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png"
+    },
+    {
+        "id" : "08",
+        "name": "Python",
+        "image" : "https://www.gcreddy.com/wp-content/uploads/2021/11/Python-Programming.png"
+    },
+    {
+        "id" : "09",
+        "name": "C / C+",
+        "image" : "https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2020/06/C_C_featuredimage.png?itok=o1mJTa7J"
+    },
+    {
+        "id" : "10",
+        "name": "Kotlin",
+        "image" : "https://kotlinlang.org/assets/images/twitter/general.png"
+    }
+]
