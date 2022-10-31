@@ -5,29 +5,20 @@ const cors = require('cors')
 const categories = require('./data/categories.json')
 const courses = require('./data/courses.json')
 
-
 app.use(cors())
 
-
 app.get('/', (req, res) => {
-  res.send('we love Allah...')
-})
-
-app.get('/categories', (req, res) => {
   res.send(categories)
 })
+
 app.get('/courses', (req, res) => {
   res.send(courses)
 })
 
-app.get('/category/:id', (req, res) => {
-  const id = req.params.id;
-  const category_news = news.filter(n => n.category_id === id);
-  res.send(category_news);
-  
+app.get('/courses/:id', (req, res) => {
+    const findCourse = courses.find(s => s.id === req.params.id)
+  res.send(findCourse)
 })
-
-
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
