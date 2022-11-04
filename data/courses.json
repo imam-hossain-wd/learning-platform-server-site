@@ -1,24 +1,11 @@
 [
 	{
 		"id": "01",
-		"name": "2022 Complete Python Bootcamp From Zero to Hero in Python",
+		"name": "Front-End Engineer",
 		"author_name": "Jose Portilla",
 		"author_img": "jose.jpg",
-		"details": "You will learn how to leverage the power of Python to solve tasks.You will build games and programs that use Python libraries.You will be able to use Python for your own work problems or personal projects.You will create a portfolio of Python based projects you can share.",
-		"img": "https://d31ezp3r8jwmks.cloudfront.net/tp1h80m384u2i6gipzcecj472h6t",
-		"Duration": "22 hours",
-		"Lessons": "14 Lessons",
-		"Enrolled": 138,
-		"rating": 4.5,
-		"price": 25
-	},
-	{
-		"id": "01",
-		"name": "The Complete 2022 Web Development Course",
-		"author_name": "Jose Portilla",
-		"author_img": "jose.jpg",
-		"details": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps.",
-		"img": "https://d31ezp3r8jwmks.cloudfront.net/tp1h80m384u2i6gipzcecj472h6t",
+		"details": "Front-end engineers work closely with designers to make websites beautiful, functional, and fast. This Career Path will teach you not only the necessary languages and technologies, but how to think like a front-end engineer, too. By the end, you’ll have the portfolio and interview skills you need to start your new career..",
+		"img": "c3.jpg",
 		"Duration": "22 hours",
 		"Lessons": "14 Lessons",
 		"Enrolled": 138,
@@ -27,9 +14,22 @@
 	},
 	{
 		"id": "02",
-		"name": "Python for Data Science and Machine Learning Bootcamp",
+		"name": "Back-End Engineer",
+		"author_name": "Jose Portilla",
+		"author_img": "jose.jpg",
+		"details": "No matter what you're building, having a strong foundation is crucial — that's where back-end engineers come in. In this Career Path, you'll start with programming servers and client-side interfaces, then level up to designing databases. By the end, you'll have everything you need to start your career as a back-end engineer.",
+		"img": "c4.jpg",
+		"Duration": "22 hours",
+		"Lessons": "14 Lessons",
+		"Enrolled": 138,
+		"rating": 4.5,
+		"price": 25
+	},
+	{
+		"id": "03",
+		"name": "Full-Stack Engineer",
 		"details": "Use Python for Data Science and Machine Learning. Use Spark for Big Data Analysis. Implement Machine Learning Algorithms. Learn to use NumPy for Numerical Data",
-		"img": "https://www.wallpaperuse.com/wallp/83-838109_m.jpg",
+		"img": "c5.jpg",
 		"author_name": "Jose Portilla",
 		"author_img": "jose.jpg",
 		"Duration": "20 hours",
@@ -39,11 +39,10 @@
 		"price": 30
 	},
 	{
-		"id": "03",
-		"name": "2022 Python for Machine Learning & Data Science Masterclass",
-		"img": "https://pyimagesearch.com/wp-content/uploads/2019/01/python_ml_header.png",
-        "details":"You will learn how to use data science and machine learning with Python.You will create data pipeline workflows to analyze, visualize and gain insights from data.You will build a portfolio of data science projects with real world data. You will be able to analyze your own data sets and gain insights through data science.",
-		"author_name": "Jose Portilla",
+		"id": "04",
+		"name": "Javascript",
+		"img": "c6.jpg",
+        "details":"The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
 		"author_img": "jose.jpg",
 		"Duration": "44 hours",
 		"Lessons": "10 Lessons",
@@ -52,9 +51,9 @@
 		"price": 43
 	},
 	{
-		"id": "04",
-		"name": "React - The Complete Guide (incl Hooks, React Router, Redux)",
-		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHYMVTPWo-UpG-iTxD-i2KHiigTIboajgwVw&usqp=CAU",
+		"id": "05",
+		"name": "React js",
+		"img": "c7.jpg",
 		"author_name": "Max Miligan",
 		"author_img": "max.jpg",
         "details":"Build powerful, fast, user-friendly and reactive web apps. Provide amazing user experiences by leveraging the power of JavaScript with ease. Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors you can find in web dev right now . Learn all about React Hooks and React Components",
@@ -65,9 +64,9 @@
 		"price": 32
 	},
 	{
-		"id": "05",
-		"name": "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
-		"img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200918183825/Best-Way-to-Learn-NodeJS-A-Complete-Roadmap.png",
+		"id": "06",
+		"name": "Kotlin",
+		"img": "c8.jpg",
 		"author_name": "Max Miligan",
 		"author_img": "max.jpg",
         "details": "Work with one of the most in-demand web development programming languages. Learn the basics as well as advanced concepts of NodeJS in great detail .Build modern, fast and scalable server-side web applications with NodeJS, databases like SQL or MongoDB and more. Understand the NodeJS ecosystem and build server-side rendered apps, REST APIs and GraphQL APIs",
@@ -78,9 +77,9 @@
 		"price": 54
 	},
 	{
-		"id": "06",
-		"name": "React Native - The Practical Guide [2022]",
-		"img": "https://miro.medium.com/max/700/1*C3kxjCrJy-aWSMpe2chfaA.png",
+		"id": "07",
+		"name": "MongoDB",
+		"img": "c9.jpg",
 		"author_name": "Max Miligan",
 		"author_img": "max.jpg",
         "details":"Learn how to use ReactJS to build real native mobile apps for iOS and Android. Develop cross-platform (iOS and Android) mobile apps without knowing Swift, ObjectiveC or Java/ Android . Explore React Native basics and advanced features!. Learn how to use key mobile app features like Google maps or the device camera",
@@ -91,9 +90,9 @@
 		"price": 30
 	},
 	{
-		"id": "07",
-		"name": "iOS 11 & Swift 4 - The Complete iOS App Development Bootcamp",
-		"img": "https://youaccel.com/admin/uploadscript5/tmp/afvry6Dy.jpg",
+		"id": "08",
+		"name": "Express js",
+		"img": "c10.jpg",
 		"author_name": "Dr. Angela Yu",
 		"author_img": "yu.jpg",
 		"Duration": "49 Hours",
@@ -104,9 +103,9 @@
 		"price": 40
 	},
 	{
-		"id": "08",
-		"name": "iOS 12 Swift 4.2 - The Complete iOS App Development Bootcamp",
-		"img": "c8.jpg",
+		"id": "09",
+		"name": "Andriod Engineer",
+		"img": "c11.jpg",
 		"author_name": "Dr. Angela Yu",
 		"author_img": "yu.jpg",
 		"Duration": "62 Hours",
@@ -117,9 +116,9 @@
 		"price": 42
 	},
 	{
-		"id": "09",
-		"name": "iOS & Swift - The Complete iOS App Development Bootcamp",
-		"img": "c9.jpg",
+		"id": "10",
+		"name": "PHP Engineer",
+		"img": "c12.jpg",
 		"author_name": "Dr. Angela Yu",
 		"author_img": "yu.jpg",
 		"Duration": "80 Hours",
